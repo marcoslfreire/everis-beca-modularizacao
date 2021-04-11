@@ -11,9 +11,9 @@ import com.example.login.events.LoginEvents
 import com.example.login.events.LoginInteractor
 import com.niemietz.everis.beca.modularizacao.login.states.LoginStates
 import com.niemietz.everis.beca.modularizacao.login.repository.LoginRepository
-import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateRequest
-import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateResponseContent
-import com.niemietz.everis.beca.modularizacao.login.model.GETSessionRequest
+import com.example.login.model.AuthenticateRequest
+import com.example.login.model.AuthenticateResponseContent
+import com.example.login.model.GETSessionRequest
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

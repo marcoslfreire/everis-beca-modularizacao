@@ -16,7 +16,7 @@ import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.logi
 import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.textwatcher.LoginTextWatcher
 import com.example.login.events.LoginEvents
 import com.example.login.events.LoginInteractor
-import com.niemietz.everis.beca.modularizacao.login.model.KeyboardItem
+import com.example.login.model.KeyboardItem
 import com.niemietz.everis.beca.modularizacao.login.states.LoginStates
 import com.niemietz.everis.beca.modularizacao.R
 import com.example.login.interfaces.LoginAPI
