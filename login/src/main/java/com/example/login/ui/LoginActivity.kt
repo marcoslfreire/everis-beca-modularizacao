@@ -10,10 +10,10 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.constraintlayout.widget.Group
 import androidx.lifecycle.ViewModelProvider
 import com.example.login.R
-//import com.niemietz.everis.beca.core.BackendClient
-//import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.EXTRA_ERROR_KEY
-//import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.EXTRA_RESULT_KEY
-//import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.LOGIN_RESULT_CODE
+import com.niemietz.everis.beca.core.BackendClient
+import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.EXTRA_ERROR_KEY
+import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.EXTRA_RESULT_KEY
+import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants.LOGIN_RESULT_CODE
 import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.textwatcher.LoginTextWatcher
 import com.example.login.events.LoginEvents
 import com.example.login.events.LoginInteractor
