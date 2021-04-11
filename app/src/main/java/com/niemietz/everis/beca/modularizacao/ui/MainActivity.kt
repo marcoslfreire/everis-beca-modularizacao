@@ -7,9 +7,7 @@ import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.widget.AppCompatButton
 import com.niemietz.everis.beca.core.com.niemietz.everis.beca.modularizacao.login.constants.LoginConstants
-import com.niemietz.everis.beca.modularizacao.BuildConfig
 import com.niemietz.everis.beca.modularizacao.R
-import com.example.login.ui.LoginActivity
 
 class MainActivity : AppCompatActivity() {
     private val btLogin: AppCompatButton by lazy { findViewById(R.id.bt_login) }

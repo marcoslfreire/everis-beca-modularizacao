@@ -1,4 +1,4 @@
-package com.niemietz.everis.beca.core.constants
+package com.example.login.constants
 
 object Constants {
     const val SHARED_PREFERENCES_ID: String = "BECA_CORE_PREFERENCES"

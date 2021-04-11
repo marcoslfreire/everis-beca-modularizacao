@@ -1,11 +1,13 @@
 package com.example.login.interfaces
 
+
 import com.example.login.constants.APIConstants.AUTHENTICATE
 import com.example.login.constants.APIConstants.GET_SESSION
-import com.niemietz.everis.beca.modularizacao.login.model.GETSessionResponse
-import com.niemietz.everis.beca.modularizacao.login.model.GETSessionRequest
-import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateResponse
-import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateRequest
+import com.example.login.model.AuthenticateRequest
+import com.example.login.model.AuthenticateResponse
+import com.example.login.model.GETSessionRequest
+import com.example.login.model.GETSessionResponse
+
 import retrofit2.http.Body
 import retrofit2.http.POST
 

@@ -5,7 +5,7 @@ import android.content.SharedPreferences
 import com.google.gson.Gson
 import com.niemietz.everis.beca.core.extensions.toObject
 import com.niemietz.everis.beca.core.extensions.toObjectFromArray
-import com.niemietz.everis.beca.core.constants.Constants.SHARED_PREFERENCES_ID
+import com.example.login.constants.Constants.SHARED_PREFERENCES_ID
 
 class LocalBase {
     private lateinit var sharedPreferenceEditor: SharedPreferences
