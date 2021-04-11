@@ -1,4 +1,4 @@
-package com.niemietz.everis.beca.modularizacao.login.ui.viewmodel
+package com.example.login.ui.viewmodel
 
 import android.content.Context
 import android.provider.Settings.Secure

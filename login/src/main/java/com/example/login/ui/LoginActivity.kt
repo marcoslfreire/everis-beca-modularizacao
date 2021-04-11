@@ -1,4 +1,4 @@
-package com.niemietz.everis.beca.modularizacao.login.ui
+package com.example.login.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -21,8 +21,8 @@ import com.example.login.states.LoginStates
 import com.niemietz.everis.beca.modularizacao.R
 import com.example.login.interfaces.LoginAPI
 import com.example.login.repository.LoginRepository
-import com.niemietz.everis.beca.modularizacao.login.ui.viewmodel.LoginViewModel
-import com.niemietz.everis.beca.modularizacao.login.ui.viewmodel.LoginViewModelFactory
+import com.example.login.ui.viewmodel.LoginViewModel
+import com.example.login.ui.viewmodel.LoginViewModelFactory
 
 class LoginActivity : AppCompatActivity() {
     private val etPassword: AppCompatEditText by lazy { findViewById(R.id.et_password) }
