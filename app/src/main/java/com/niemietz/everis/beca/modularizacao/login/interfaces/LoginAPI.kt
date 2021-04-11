@@ -1,7 +1,7 @@
 package com.niemietz.everis.beca.modularizacao.login.interfaces
 
-import com.niemietz.everis.beca.modularizacao.login.constants.APIConstants.AUTHENTICATE
-import com.niemietz.everis.beca.modularizacao.login.constants.APIConstants.GET_SESSION
+import com.example.login.constants.APIConstants.AUTHENTICATE
+import com.example.login.constants.APIConstants.GET_SESSION
 import com.niemietz.everis.beca.modularizacao.login.model.GETSessionResponse
 import com.niemietz.everis.beca.modularizacao.login.model.GETSessionRequest
 import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateResponse
