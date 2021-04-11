@@ -1,4 +1,4 @@
-package com.niemietz.everis.beca.modularizacao.login.events
+package com.example.login.events
 
 sealed class LoginEvents {
     object StartLoading: LoginEvents()

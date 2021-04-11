@@ -7,8 +7,8 @@ import androidx.lifecycle.ViewModel
 import com.google.gson.Gson
 import com.niemietz.everis.beca.core.InternetChecker.isConnected2Internet
 import com.niemietz.everis.beca.core.Session
-import com.niemietz.everis.beca.modularizacao.login.events.LoginEvents
-import com.niemietz.everis.beca.modularizacao.login.events.LoginInteractor
+import com.example.login.events.LoginEvents
+import com.example.login.events.LoginInteractor
 import com.niemietz.everis.beca.modularizacao.login.states.LoginStates
 import com.niemietz.everis.beca.modularizacao.login.repository.LoginRepository
 import com.niemietz.everis.beca.modularizacao.login.model.AuthenticateRequest

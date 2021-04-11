@@ -1,4 +1,4 @@
-package com.niemietz.everis.beca.modularizacao.login.interfaces
+package com.example.login.interfaces
 
 import com.example.login.constants.APIConstants.AUTHENTICATE
 import com.example.login.constants.APIConstants.GET_SESSION
