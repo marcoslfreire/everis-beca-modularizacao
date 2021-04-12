@@ -1,6 +1,6 @@
 package com.niemietz.everis.beca.core.exceptions
 
-import com.example.login.constants.Constants.EXTRAS_EXCEPTION_MESSAGE
+//import com.example.login.constants.Constants.EXTRAS_EXCEPTION_MESSAGE
 import kotlin.reflect.KClass
 
 class ExtrasNotInitializedException: Exception {
